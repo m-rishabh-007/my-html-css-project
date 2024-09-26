@@ -1,0 +1,9 @@
+The project resource and the html and css file is in the master branch.
+
+
+master-branch
+├── index.html
+├── project.css
+├── ada.jpg          # Background image for section 3
+└── leon.jpg         # Background image for the training form
+...... and others
